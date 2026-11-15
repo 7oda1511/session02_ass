@@ -1,0 +1,15 @@
+D:\Documents\course01solution\course01\bin\Debug\net10.0\course01.exe
+D:\Documents\course01solution\course01\bin\Debug\net10.0\course01.deps.json
+D:\Documents\course01solution\course01\bin\Debug\net10.0\course01.runtimeconfig.json
+D:\Documents\course01solution\course01\bin\Debug\net10.0\course01.dll
+D:\Documents\course01solution\course01\bin\Debug\net10.0\course01.pdb
+D:\Documents\course01solution\course01\obj\Debug\net10.0\course01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\course01solution\course01\obj\Debug\net10.0\course01.AssemblyInfoInputs.cache
+D:\Documents\course01solution\course01\obj\Debug\net10.0\course01.AssemblyInfo.cs
+D:\Documents\course01solution\course01\obj\Debug\net10.0\course01.csproj.CoreCompileInputs.cache
+D:\Documents\course01solution\course01\obj\Debug\net10.0\course01.dll
+D:\Documents\course01solution\course01\obj\Debug\net10.0\refint\course01.dll
+D:\Documents\course01solution\course01\obj\Debug\net10.0\course01.pdb
+D:\Documents\course01solution\course01\obj\Debug\net10.0\course01.genruntimeconfig.cache
+D:\Documents\course01solution\course01\obj\Debug\net10.0\ref\course01.dll
+D:\Documents\course01solution\course01\obj\Debug\net10.0\course01.csproj.Up2Date
